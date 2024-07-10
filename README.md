@@ -13,10 +13,6 @@
 - 📫 How to reach me **nyajal.w@gmail.com**
 
 <h2 align="center">Connect with me ↩️ </h2>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nyajal-wal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nyajal-wal/" height="30" width="40" /></a>
-</p> -->
-
 <div align="center"> 
   <a href="mailto:nyajal.w@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
