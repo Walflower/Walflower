@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Here on Github!](Here on Github!)
 
-- 💬 Ask me about **react, express and MySQL**
+- 💬 Ask me about **React, Node.js and MySQL**
 
 - 📫 How to reach me **nyajal.w@gmail.com**
 
